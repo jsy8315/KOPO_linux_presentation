@@ -16,6 +16,10 @@ layout : home
 ## 0427 [쉘과 커널] (./0427SHELLKERNEL)
 ## 0428 [포트포워딩] (./0428PORTFORWARDING)
 
+## 커맨드라인03요약 (./LINUXBOOK/LINUXCOMMANDLINE03)
+## 커맨드라인27요약 (./LINUXBOOK/LINUXCOMMANDLINE27)
+## 우분투리눅스06요약 (./LINUXBOOK/UBUNTULINUX06)
+## 우분투리눅스08요약 (./LINUXBOOK/UBUNTULINUX08)
 =======
 # Suyoung Report
 >>>>>>> 33dcf8be9088eb04469dee040095ec521b08c941
